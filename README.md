@@ -1,0 +1,1 @@
+Hello world samples taken from https://github.com/knative/docs/tree/75fdf8e22dee4f3801240ff3040a93e164a42f78/docs/serving/samples/hello-world
